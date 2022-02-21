@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="project">
+    <email>python@gentoo.org</email>
+    <name>Python</name>
+  </maintainer>
+  <upstream>
+    <maintainer>
+      <name>Shekhar Tiwatne</name>
+      <email>pythonic@gmail.com</email>
+    </maintainer>
+    <remote-id type="pypi">httpagentparser</remote-id>
+    <remote-id type="github">shon/httpagentparser</remote-id>
+  </upstream>
+</pkgmetadata>
