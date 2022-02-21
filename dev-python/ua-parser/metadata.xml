@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="project">
+    <email>python@gentoo.org</email>
+    <name>Python</name>
+  </maintainer>
+  <stabilize-allarches/>
+  <longdescription lang="en">
+  A python implementation of the UA Parser, python wrapper
+  for the User Agent String Parser.
+  This is Python port of Browserscope's user agent parser
+  </longdescription>
+  <upstream>
+    <maintainer>
+      <name>PBS</name>
+      <email>no-reply@pbs.org</email>
+    </maintainer>
+    <remote-id type="pypi">ua-parser</remote-id>
+    <remote-id type="github">ua-parser/uap-python</remote-id>
+  </upstream>
+</pkgmetadata>
