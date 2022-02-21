@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="project">
+    <email>python@gentoo.org</email>
+    <name>Python</name>
+  </maintainer>
+  <stabilize-allarches/>
+  <upstream>
+    <maintainer>
+      <name>Hsiaoming Yang</name>
+      <email>me@lepture.com</email>
+    </maintainer>
+    <remote-id type="pypi">sphinx-typlog-theme</remote-id>
+    <remote-id type="github">typlog/sphinx-typlog-theme</remote-id>
+  </upstream>
+</pkgmetadata>
