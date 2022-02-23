@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="project">
+    <email>python@gentoo.org</email>
+    <name>Python</name>
+  </maintainer>
+  <stabilize-allarches/>
+  <upstream>
+    <maintainer>
+      <name>Miguel Grinberg</name>
+      <email>miguel.grinberg@gmail.com</email>
+    </maintainer>
+    <bugs-to>https://github.com/miguelgrinberg/simple-websocket/issues</bugs-to>
+    <remote-id type="pypi">simple-websocket</remote-id>
+    <remote-id type="github">miguelgrinberg/simple-websocket</remote-id>
+  </upstream>
+</pkgmetadata>
