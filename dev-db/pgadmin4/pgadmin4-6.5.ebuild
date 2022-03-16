@@ -179,7 +179,7 @@ src_install() {
 
 	insinto /usr/bin
 	newins - pgAdmin4 <<-EOF
-	#/bin/bash
+	#!/bin/bash
 	cd /usr/share/pgadmin4/runtime
 	node_modules/nw/nwjs/nw .
 	EOF
